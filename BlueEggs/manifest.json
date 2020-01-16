@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Blue Eggs",
+  "Author": "Jubilee Young",
+  "Version": "0.1.0",
+  "Description": "Adds blue eggs to blue chickens",
+  "UniqueID": "JubileeYoung.BlueEggs",
+  "EntryDll": "BlueEggs.dll",
+  "MinimumApiVersion": "2.10.0",
+  "UpdateKeys": []
+}
